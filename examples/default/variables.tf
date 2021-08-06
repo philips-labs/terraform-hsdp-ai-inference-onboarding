@@ -15,7 +15,7 @@ variable "oauth2_client_id" {
   type        = string
 }
 
-variable "oauth2_client_secret" {
+variable "oauth2_password" {
   description = "Oauth2 client secret"
   type        = string
 }
