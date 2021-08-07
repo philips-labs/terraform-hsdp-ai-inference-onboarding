@@ -43,9 +43,9 @@ No modules.
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_admin_user_ids"></a> [admin\_user\_ids](#input\_admin\_user\_ids) | List of admin Connect IoT admin users IDs | `list(string)` | `[]` | no |
-| <a name="input_admin_users"></a> [admin\_users](#input\_admin\_users) | List of admin Connect IoT admin users | `list(string)` | `[]` | no |
-| <a name="input_onboarding_iam_org_id"></a> [onboarding\_iam\_org\_id](#input\_onboarding\_iam\_org\_id) | IAM organization (GUID) you want to onboard to Connect IOT | `string` | n/a | yes |
+| <a name="input_admin_user_ids"></a> [admin\_user\_ids](#input\_admin\_user\_ids) | List of IA-Inference admin users IDs | `list(string)` | `[]` | no |
+| <a name="input_admin_users"></a> [admin\_users](#input\_admin\_users) | List of IA-Inference admin users | `list(string)` | `[]` | no |
+| <a name="input_onboarding_iam_org_id"></a> [onboarding\_iam\_org\_id](#input\_onboarding\_iam\_org\_id) | Tenant IAM organization (GUID) to be onboarded | `string` | n/a | yes |
 
 ## Outputs
 
