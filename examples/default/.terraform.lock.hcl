@@ -2,20 +2,20 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/philips-software/hsdp" {
-  version     = "0.18.9"
-  constraints = ">= 0.14.1, >= 0.18.7"
+  version     = "0.19.3"
+  constraints = ">= 0.18.7, >= 0.19.0"
   hashes = [
-    "h1:9RvPLBOJ8Wm4qyd9Vba20ssqF++klJjOnFLzT6W6Ds0=",
-    "zh:1195e967d6b761a372d4e16e5f9d77731b3d0d9bc74a33e3422243fa934e7245",
-    "zh:16ce34db719de1dde07e4a070f36c0d95793c85a04394839555edab15195af92",
-    "zh:3eca4b006bea2b60a0ce21c550eb8f93cd3bd1ed7036dae26278e0af4349047a",
-    "zh:5211c2d563293154fe073b2f6dca273d0b4c66de96f8572539fced3cf4ea2dd9",
-    "zh:6fec42a81eccc154cc4e826e58a8ac8f9acd7d4bc17e83d861a3965b9ba85fe2",
-    "zh:94b9faefeec0d4afdfde6b41662e97c07ec2e53c10fd572bd58990b052c0c5d2",
-    "zh:a5498cb23a6de7b7b517e21655873710c31a9bf826a7b66c2ced5a57561724f2",
-    "zh:c393e479d05a7634512d4169f08a0ddb2cc79b9cdf6696a28336b21df5cd8d90",
-    "zh:cbd5929a003dca391fc7a41c3903e0a9d534ae5b6c47839f2231ba8bcefb810d",
-    "zh:ecec2b9bda9491cf85b11fe1bbddcd191823cf24790bab62d65ef20af3d7337d",
-    "zh:fc4de6dc8d38543b5f1cbce6fa0d09e361baa08e6bdaa0efcf01f89d43ad0ab4",
+    "h1:Hp8Mhj64c2n+BmotJTRl23GbKcT16doINRhhwIBZ1dU=",
+    "zh:743474d8fbb49a4363aca8225f4aeb14c795be65d2ebe970dbb5ea4ce38ea81c",
+    "zh:7ed73e904611d8743c1f3355a3cd951b8a34cafd7109e018cf45c72a9bb855e1",
+    "zh:8867b4c0510f8f99e467df1f8ef68f86c90b617c47862f458965840ecdea0450",
+    "zh:88eac2392113adf1d9496ba51c93adb3ae722b8e0861c0458cb2bdf9c07c6b73",
+    "zh:98baa50162626917b1921b6f9933f73fb18f83f595b113fef351830c042f2780",
+    "zh:a2f8269e2a067718f9a56a804bc50f09341d735a4052ad6f119a36b807f90b90",
+    "zh:abae97657f8c3fee8734a55e2d361007bc96027ce9fe77f0a593da0e1f2ed3c3",
+    "zh:ac902c217ddbe1b23f3910bb3c1baf907c22e2a66b39925a52f6d2b8e3a699a4",
+    "zh:b6dfdbed2a9cdd6df0496d1ccd4a9bd9cbbc35dfc23fd8ec5746e0ff20fe5fda",
+    "zh:caf61b0cd34bda74f7ef1491db8b101905b83f6788f6eff1537a5fff4ebebd6b",
+    "zh:f4450ced1dddf1b565ee27bde20bf8b54c87f91d4cb9558746ecd5e6cdcd79d9",
   ]
 }
