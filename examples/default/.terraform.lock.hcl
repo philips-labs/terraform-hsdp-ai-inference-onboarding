@@ -2,20 +2,20 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/philips-software/hsdp" {
-  version     = "0.18.9"
-  constraints = ">= 0.14.1, >= 0.18.7"
+  version     = "0.19.5"
+  constraints = ">= 0.18.7, >= 0.19.0"
   hashes = [
-    "h1:9RvPLBOJ8Wm4qyd9Vba20ssqF++klJjOnFLzT6W6Ds0=",
-    "zh:1195e967d6b761a372d4e16e5f9d77731b3d0d9bc74a33e3422243fa934e7245",
-    "zh:16ce34db719de1dde07e4a070f36c0d95793c85a04394839555edab15195af92",
-    "zh:3eca4b006bea2b60a0ce21c550eb8f93cd3bd1ed7036dae26278e0af4349047a",
-    "zh:5211c2d563293154fe073b2f6dca273d0b4c66de96f8572539fced3cf4ea2dd9",
-    "zh:6fec42a81eccc154cc4e826e58a8ac8f9acd7d4bc17e83d861a3965b9ba85fe2",
-    "zh:94b9faefeec0d4afdfde6b41662e97c07ec2e53c10fd572bd58990b052c0c5d2",
-    "zh:a5498cb23a6de7b7b517e21655873710c31a9bf826a7b66c2ced5a57561724f2",
-    "zh:c393e479d05a7634512d4169f08a0ddb2cc79b9cdf6696a28336b21df5cd8d90",
-    "zh:cbd5929a003dca391fc7a41c3903e0a9d534ae5b6c47839f2231ba8bcefb810d",
-    "zh:ecec2b9bda9491cf85b11fe1bbddcd191823cf24790bab62d65ef20af3d7337d",
-    "zh:fc4de6dc8d38543b5f1cbce6fa0d09e361baa08e6bdaa0efcf01f89d43ad0ab4",
+    "h1:x5/xZoQ5tgM/3xK1eC8c922CCbGVUTG2CTXEX9uU25g=",
+    "zh:03441c2d297a79071006f297d8d3f6b0c0da9fa5ad90446ae6804486ded9d4b8",
+    "zh:25328fe7c8e15e0b81989a4a1502ee6594e98689fbc7245466313125fa2be103",
+    "zh:4412ca02888759b42f438708bf330e4cb045b084f959701697c2f4923405313f",
+    "zh:464ddede340603007b9cd85258bb2d94088a96ab7a4e9ce541a878156d401332",
+    "zh:4a2ef4c98852d2c4c765e0570d93c71578d70e4b46c1d677d36e7f8b902d97dc",
+    "zh:574ac0f421aeddf95edfe85b5de55f097a14db3fd37d3acd3ef15dd76c3ae6f8",
+    "zh:61d106533e930d85e59dc836b36c93822404f87c747e2c056d626b7ff57913ec",
+    "zh:8c79f2df298d3ed80ab7e7cbbef3889324608dc7bd995bdff3eb8b280d801399",
+    "zh:96a0fbf32347f1cdf47e181b96da1b265c2ad4e04c33f410a5a1e53d1d4b0215",
+    "zh:bb176e24dbe3d23b686c5fbb9baa41bb2ae40986fee4a751a344d8598c2af0f4",
+    "zh:f5906271d20082341aedfd9e7dfbc5203b8e8274fe271e27654a7f5f581a0de5",
   ]
 }
