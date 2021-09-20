@@ -2,20 +2,20 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/philips-software/hsdp" {
-  version     = "0.18.9"
-  constraints = ">= 0.14.1, >= 0.18.7"
+  version     = "0.19.10"
+  constraints = ">= 0.18.7, >= 0.19.0"
   hashes = [
-    "h1:9RvPLBOJ8Wm4qyd9Vba20ssqF++klJjOnFLzT6W6Ds0=",
-    "zh:1195e967d6b761a372d4e16e5f9d77731b3d0d9bc74a33e3422243fa934e7245",
-    "zh:16ce34db719de1dde07e4a070f36c0d95793c85a04394839555edab15195af92",
-    "zh:3eca4b006bea2b60a0ce21c550eb8f93cd3bd1ed7036dae26278e0af4349047a",
-    "zh:5211c2d563293154fe073b2f6dca273d0b4c66de96f8572539fced3cf4ea2dd9",
-    "zh:6fec42a81eccc154cc4e826e58a8ac8f9acd7d4bc17e83d861a3965b9ba85fe2",
-    "zh:94b9faefeec0d4afdfde6b41662e97c07ec2e53c10fd572bd58990b052c0c5d2",
-    "zh:a5498cb23a6de7b7b517e21655873710c31a9bf826a7b66c2ced5a57561724f2",
-    "zh:c393e479d05a7634512d4169f08a0ddb2cc79b9cdf6696a28336b21df5cd8d90",
-    "zh:cbd5929a003dca391fc7a41c3903e0a9d534ae5b6c47839f2231ba8bcefb810d",
-    "zh:ecec2b9bda9491cf85b11fe1bbddcd191823cf24790bab62d65ef20af3d7337d",
-    "zh:fc4de6dc8d38543b5f1cbce6fa0d09e361baa08e6bdaa0efcf01f89d43ad0ab4",
+    "h1:aNydmXSDbWCogxn//hwc5P0R2FadVg3KttDVV7r6gfI=",
+    "zh:259bf4fafb37ddea467c1d144b8714bb3f2fb5e66d8d9b8c4e3c67f5ef98b6d4",
+    "zh:2644c5361f34c9656547294f5b8cdb6b8cd4ff754d44abb45a5d6c45b564756c",
+    "zh:50e7db23d7134f5c8f9b54ddeb11fa161f46522290f737693d1730e67f44f825",
+    "zh:63ea1916fc8a7d14cfe14302a7241b9fa9c153a854f90d101e2f15f69c48d2ec",
+    "zh:68ae807af49a19d3b96712afed38648252674ed9e2bbf8b13998c6d0994553b9",
+    "zh:6f9df5d374742e1ed2a5afda742cd01bedc11afe16fd57021a92aece8fba92cd",
+    "zh:7ca52eb120ffbf31d096455fc294be2933c28f831886a1e33233846008386d08",
+    "zh:8768ad419f7e6407529077a1d468cabfa3c4da9cafcdd63645a0835b0ae4575d",
+    "zh:8b6474ac5eeddaaf25e1bfccf9e5f8b2d1346d5cddb4d8b9f9efbbed3c6e3af0",
+    "zh:94e0575feb10ea30f2eafb7f87fcd27c6cf50590cdfc3cdd0955d2f20da9d049",
+    "zh:e59485e886ba179fc5f7eb98c4f058b362b69f296f7b52b1c84c03507667a2c7",
   ]
 }
