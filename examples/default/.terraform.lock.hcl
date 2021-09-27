@@ -2,20 +2,20 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/philips-software/hsdp" {
-  version     = "0.18.9"
-  constraints = ">= 0.14.1, >= 0.18.7"
+  version     = "0.20.5"
+  constraints = ">= 0.18.7, >= 0.19.0"
   hashes = [
-    "h1:9RvPLBOJ8Wm4qyd9Vba20ssqF++klJjOnFLzT6W6Ds0=",
-    "zh:1195e967d6b761a372d4e16e5f9d77731b3d0d9bc74a33e3422243fa934e7245",
-    "zh:16ce34db719de1dde07e4a070f36c0d95793c85a04394839555edab15195af92",
-    "zh:3eca4b006bea2b60a0ce21c550eb8f93cd3bd1ed7036dae26278e0af4349047a",
-    "zh:5211c2d563293154fe073b2f6dca273d0b4c66de96f8572539fced3cf4ea2dd9",
-    "zh:6fec42a81eccc154cc4e826e58a8ac8f9acd7d4bc17e83d861a3965b9ba85fe2",
-    "zh:94b9faefeec0d4afdfde6b41662e97c07ec2e53c10fd572bd58990b052c0c5d2",
-    "zh:a5498cb23a6de7b7b517e21655873710c31a9bf826a7b66c2ced5a57561724f2",
-    "zh:c393e479d05a7634512d4169f08a0ddb2cc79b9cdf6696a28336b21df5cd8d90",
-    "zh:cbd5929a003dca391fc7a41c3903e0a9d534ae5b6c47839f2231ba8bcefb810d",
-    "zh:ecec2b9bda9491cf85b11fe1bbddcd191823cf24790bab62d65ef20af3d7337d",
-    "zh:fc4de6dc8d38543b5f1cbce6fa0d09e361baa08e6bdaa0efcf01f89d43ad0ab4",
+    "h1:9+GrWScGeSgmLYz9ftNuHnXxcmsO4yf6UNWOH63xedU=",
+    "zh:0a8aa7417a404bd8b45ca0fac64015478b6891beee51f9f6a522377c739620d4",
+    "zh:1395fc882910c76245c578cd012c9a2aafee98ebcfa4a7a9b3422e09e8fb419e",
+    "zh:1febfe6c8d8706a13da506a49c531cb7453687e37f0c70558997bd721531d244",
+    "zh:4e17132be5c36483e35bb7c0aa970f0bb8a161aef6f28ce1e1a1f15961894ad9",
+    "zh:4f2670ff87c2ca03d31ed6b096c9876f676f96bee6937bf5d7afb24b4720021b",
+    "zh:8250d1390c6289c5559db98ef754aee3b26d30954648e82df5acef4b47052938",
+    "zh:916cd3fbb290fe9e5ea1b3092b954f1259c1aa37029806478d8380411ac42a10",
+    "zh:a05fec4585c927ac6b3aa070822a9ed9d7a71a86759566dec16a5c32f5f0ddf5",
+    "zh:a6639218c22874ed80c6796bab15a07ea7532bee01f35dee7c115dbbf9753397",
+    "zh:ab7913bc8ed0f82a2a152dc6c58cc12e246b81865f7f2d70da8aa566dd17e4c2",
+    "zh:ae79503cfab0b5ded3f545cae662a2d46fff69e1ade4fd74f93be72d6b2af472",
   ]
 }
