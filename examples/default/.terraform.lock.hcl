@@ -2,20 +2,20 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/philips-software/hsdp" {
-  version     = "0.18.9"
-  constraints = ">= 0.14.1, >= 0.18.7"
+  version     = "0.20.8"
+  constraints = ">= 0.18.7, >= 0.19.0"
   hashes = [
-    "h1:9RvPLBOJ8Wm4qyd9Vba20ssqF++klJjOnFLzT6W6Ds0=",
-    "zh:1195e967d6b761a372d4e16e5f9d77731b3d0d9bc74a33e3422243fa934e7245",
-    "zh:16ce34db719de1dde07e4a070f36c0d95793c85a04394839555edab15195af92",
-    "zh:3eca4b006bea2b60a0ce21c550eb8f93cd3bd1ed7036dae26278e0af4349047a",
-    "zh:5211c2d563293154fe073b2f6dca273d0b4c66de96f8572539fced3cf4ea2dd9",
-    "zh:6fec42a81eccc154cc4e826e58a8ac8f9acd7d4bc17e83d861a3965b9ba85fe2",
-    "zh:94b9faefeec0d4afdfde6b41662e97c07ec2e53c10fd572bd58990b052c0c5d2",
-    "zh:a5498cb23a6de7b7b517e21655873710c31a9bf826a7b66c2ced5a57561724f2",
-    "zh:c393e479d05a7634512d4169f08a0ddb2cc79b9cdf6696a28336b21df5cd8d90",
-    "zh:cbd5929a003dca391fc7a41c3903e0a9d534ae5b6c47839f2231ba8bcefb810d",
-    "zh:ecec2b9bda9491cf85b11fe1bbddcd191823cf24790bab62d65ef20af3d7337d",
-    "zh:fc4de6dc8d38543b5f1cbce6fa0d09e361baa08e6bdaa0efcf01f89d43ad0ab4",
+    "h1:+HmuqTn7yYJNIBwasjn2yQ5Eaw2rv9IllxyE6F3nGMs=",
+    "zh:04e6fca2f46559e52195426cf07bd6b708a4b7f121724e4fa4e7e6514c0cf224",
+    "zh:06a1badca85132f6c9ff0de0f243f1a3ef3c2ee6bcbb3af32d81d7b079ec63f0",
+    "zh:3186614d6483a12d934c3a5f1b9e328136a9a4386d8958d23113b5af7f56df38",
+    "zh:556a051720591c3f2fe7b844fefaa21eaf6e256fd39a3d66f7140c2577a019e3",
+    "zh:5ae434190cd27cb65806e44c957f159a15d9501d2f06b080e5790d7f30529bed",
+    "zh:64468e07a737f9d6e0c83c2d6f4f01e3bbeeabfc37e67b38315142a243348b08",
+    "zh:768d44df6d651d098b733239d9fa4edbc5734e3b1f510dee1dca4d7f73a6e78f",
+    "zh:9317df29702eaf1490535ac5fad426f2ec35fdc1433dcb14c927a7a1b2a6b1d4",
+    "zh:ae6232209db02ff0d0eb5cf64aad48d831402ad199157b7b7befc78cf76c043c",
+    "zh:c7ec19670ba791794fd67004c9893484114ca824320fab769d5844292530be37",
+    "zh:cc07cfd40ef596eedf683a5fadf9d9ebb0a836458aad27d82b6294d4bb4b77a2",
   ]
 }
