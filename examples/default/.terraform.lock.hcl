@@ -2,20 +2,20 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/philips-software/hsdp" {
-  version     = "0.18.9"
-  constraints = ">= 0.14.1, >= 0.18.7"
+  version     = "0.26.3"
+  constraints = ">= 0.18.7, >= 0.19.0"
   hashes = [
-    "h1:9RvPLBOJ8Wm4qyd9Vba20ssqF++klJjOnFLzT6W6Ds0=",
-    "zh:1195e967d6b761a372d4e16e5f9d77731b3d0d9bc74a33e3422243fa934e7245",
-    "zh:16ce34db719de1dde07e4a070f36c0d95793c85a04394839555edab15195af92",
-    "zh:3eca4b006bea2b60a0ce21c550eb8f93cd3bd1ed7036dae26278e0af4349047a",
-    "zh:5211c2d563293154fe073b2f6dca273d0b4c66de96f8572539fced3cf4ea2dd9",
-    "zh:6fec42a81eccc154cc4e826e58a8ac8f9acd7d4bc17e83d861a3965b9ba85fe2",
-    "zh:94b9faefeec0d4afdfde6b41662e97c07ec2e53c10fd572bd58990b052c0c5d2",
-    "zh:a5498cb23a6de7b7b517e21655873710c31a9bf826a7b66c2ced5a57561724f2",
-    "zh:c393e479d05a7634512d4169f08a0ddb2cc79b9cdf6696a28336b21df5cd8d90",
-    "zh:cbd5929a003dca391fc7a41c3903e0a9d534ae5b6c47839f2231ba8bcefb810d",
-    "zh:ecec2b9bda9491cf85b11fe1bbddcd191823cf24790bab62d65ef20af3d7337d",
-    "zh:fc4de6dc8d38543b5f1cbce6fa0d09e361baa08e6bdaa0efcf01f89d43ad0ab4",
+    "h1:lPvmrOqcaYAWJwVi/mNoLcoAQ3a/5jic9Tm5ngVeMjw=",
+    "zh:190ee5987ea472f45f0169c119be7b0eca6b02a0c3a29ace2ee446838a4fce4c",
+    "zh:5ee7e66a24656383adb683a66c3f4e0276df059f467b5763fc9938b97541f474",
+    "zh:6f87030cc2212c454f979c4cf4f6d09b14772e3a032f8d6869420087d2403013",
+    "zh:a2b7ba5eada48e58ecc6cbd470d24adbd71f59beaa7949568ddf66c2847f13e7",
+    "zh:b67bf4d797e3829ef856fcc0e6a917177f1fc263ba29d28c7f97188f4267c86b",
+    "zh:b774cd96f3b756cae5cdabb8f8444347dd9007d4ea916ed18703a402294b1df9",
+    "zh:c32ca9ea2f9de9d0f091859006d88f4c1bf3e410253590fe7759372c636a9bf7",
+    "zh:e1dfa87a74408aaad9068ecd3fdaa1b225282d441676a8bc9fa27b6148c4f4c7",
+    "zh:e8a3a9f05cb6ecf4142cfbd3308a9d979d1478b2c57fefd77d41a4e68b86cd32",
+    "zh:edfc00e3ec74182a48baf91e078f67e712cf7a69cde2e883aa23c42d59984308",
+    "zh:f7a91d998a64df7957713564d173aa0c4417d2d25e82d8d70b49f319c60fdb13",
   ]
 }
